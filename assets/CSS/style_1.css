@@ -1,0 +1,14 @@
+
+/* khoảng cách của các breakpoint */
+ /* Mobile width: < 740px
+    Tablet width : >= 740px and <=1024px
+    Pc : width >= 1024px
+ */
+
+
+@media only screen and (min-width: 1024px) {
+    h1{
+        color: red;
+        
+    }
+}

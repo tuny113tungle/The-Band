@@ -1,0 +1,35 @@
+1.Phân tích:
+	1.1. Header
+	1.2. Slider
+	1.3. Content
+		1.3.1: About
+		1.3.2: Tour
+		1.3.3: Contact
+		1.3.4: Image
+		1.3.5: Footer
+	1.4. Footer 	 
+2.Dựng base (xây móng)
+3. Xây dựng từng phần theo phân tích
+4.Hoàn thiện
+
+**********
+Thành phần của một web cơ bản:
+1.Header (Đầu trang)
+2.Navigation (Điều hướng)
+3.Breadcumb (Cho biết vị trí nào trong web)
+4.Sidebar (một cái bảng menu chọn trái hoặc phải màn hình)
+5. Slider (Phần các video chạy chạy)
+6.Content (Nội dung)
+7.Footer (Chân trang , kiểu phần thông tin công ty, coltd,..)
+
+
+*****
+Phím tắt: crl+D: select chữ được bôi đen và cụm giống và gần nó nhất
+--crl+D nhiều lần sẽ select các cụm giống kế tiếp.
+--Nhấn crl+shift+L
+--- Nhấn mũi tên sang phải '>'
+----Nhấn alt+shift+'>'.
+
+
+******Cut:
+ctrl+x để cắt
